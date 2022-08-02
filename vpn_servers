@@ -1,0 +1,98 @@
+[
+  {
+    "flagurl": "https://cdn.countryflags.com/thumbs/singapore/flag-800.png",
+    "flagurl_small": "https://www.countryflags.io/sg/flat/64.png",
+    "provider": "Amazon",
+    "protection": "Amazon",
+    "countrycode": "SG",
+    "enabled": true,
+    "down": false,
+    "url": "https://cdn.courvix.com/vpn/configs/Singapore_1.ovpn",
+    "servername": "Singapore 1",
+    "ipv6": true
+  },
+  {
+    "flagurl": "https://www.countryflags.com/wp-content/uploads/united-states-of-america-flag-png-large.png",
+    "flagurl_small": "https://www.countryflags.io/us/flat/64.png",
+    "provider": "RawSRV",
+    "protection": "Path Network",
+    "countrycode": "US",
+    "enabled": true,
+    "down": false,
+    "url": "https://cdn.courvix.com/vpn/configs/LosAngeles_1.ovpn",
+    "servername": "Los Angeles 1",
+    "ipv6": false
+  },
+  {
+    "flagurl": "https://cdn.countryflags.com/thumbs/netherlands/flag-800.png",
+    "flagurl_small": "https://www.countryflags.io/nl/flat/64.png",
+    "provider": "Zare",
+    "protection": "Zare",
+    "countrycode": "NL",
+    "enabled": true,
+    "down": false,
+    "url": "https://cdn.courvix.com/vpn/configs/Amsterdam_1.ovpn",
+    "servername": "Amsterdam 1",
+    "ipv6": false
+  },
+  {
+    "flagurl": "https://www.countryflags.com/wp-content/uploads/united-kingdom-flag-png-large.png",
+    "flagurl_small": "https://www.countryflags.io/gb/flat/64.png",
+    "provider": "Kubbur",
+    "protection": "Path Network",
+    "countrycode": "GB",
+    "enabled": true,
+    "down": false,
+    "url": "https://cdn.courvix.com/vpn/configs/London_1.ovpn",
+    "servername": "London 1",
+    "ipv6": false
+  },
+  {
+    "url": "https://cdn.courvix.com/vpn/configs/Columbus_1.ovpn",
+    "flagurl": "https://www.countryflags.com/wp-content/uploads/united-states-of-america-flag-png-large",
+    "flagurl_small": "https://www.countryflags.io/us/flat/64.png",
+    "provider": "Amazon",
+    "protection": "Amazon",
+    "countrycode": "US",
+    "enabled": true,
+    "down": false,
+    "servername": "Columbus 1",
+    "ipv6": true
+  },
+  {
+    "flagurl": "https://www.countryflags.com/wp-content/uploads/united-states-of-america-flag-png-large",
+    "flagurl_small": "https://www.countryflags.io/us/flat/64.png",
+    "provider": "NFOServers",
+    "protection": "NFOServers",
+    "countrycode": "US",
+    "enabled": true,
+    "down": false,
+    "url": "https://cdn.courvix.com/vpn/configs/Seattle_1.ovpn",
+    "servername": "Seattle 1",
+    "ipv6": false
+  },
+  {
+    "flagurl": "https://cdn.countryflags.com/thumbs/sweden/flag-800.png",
+    "flagurl_small": "https://www.countryflags.io/se/flat/64.png",
+    "provider": "Amazon",
+    "protection": "Amazon",
+    "countrycode": "SE",
+    "enabled": true,
+    "down": false,
+    "url": "https://cdn.courvix.com/vpn/configs/Stockholm_1.ovpn",
+    "servername": "Stockholm 1",
+    "ipv6": true
+  },
+  {
+    "flagurl": "https://cdn.countryflags.com/thumbs/france/flag-800.png",
+    "flagurl_small": "https://www.countryflags.io/fr/flat/64.png",
+    "provider": "Amazon",
+    "protection": "Amazon",
+    "countrycode": "FR",
+    "enabled": true,
+    "down": false,
+    "url": "https://cdn.courvix.com/vpn/configs/Paris_1.ovpn",
+    "servername": "Paris 1",
+    "ipv6": true
+  }
+]
